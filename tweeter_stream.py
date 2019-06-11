@@ -1,10 +1,10 @@
 import sys, arcpy, datetime, tweepy
 
 # Copy and paste your 4 security keys from the identification.txt file
-consumer_key = "pwRsSS1gPPaaTLBEEhzg"
-consumer_secret = "FhK3uLlgLYIsNnPQWiyTSjdcY0cvzh2vueQuFw8Zgg"
-access_token = "1604096719-bKXC7r3rpek0B75jxZI7Epo5RoNcVBHgfWsdSk9"
-access_token_secret = "jonxD8QXfRPxbxx8Fotmq5qXW48BA9HMfwnpoRGUG4"
+consumer_key = "XXX"
+consumer_secret = "XXX"
+access_token = "XXX"
+access_token_secret = "XXX"
 
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_token_secret)
