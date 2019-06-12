@@ -11,7 +11,7 @@ The map below shows the distribution of tweets about thanksgiving around the wor
 
 ![worldwide](https://github.com/wajuqi/Mapping-GeoTagged-Twitter-Data-with-Tweepy/blob/master/figures/tweets_worldwide.png)
 
-We can also infer that the distribution of Canadians by states in USA. There may be more Canadians in California, Texas, and New York as the map below shows. In terms of Canada, most tweets come from Ontario which may result from the large population. Besides, most tweets are located in population centers such as Toronto, Ottawa, Montreal, and Vancouver.
+The distribution of Canadians by states in USA indicated that there may be more Canadians in California, Texas, and New York as the map below shows. In terms of Canada, most tweets come from Ontario which may result from the large population. Besides, most tweets are located in population centers such as Toronto, Ottawa, Montreal, and Vancouver.
 
 ![usa](https://github.com/wajuqi/Mapping-GeoTagged-Twitter-Data-with-Tweepy/blob/master/figures/tweets_usa.png)
 ![population centre](https://github.com/wajuqi/Mapping-GeoTagged-Twitter-Data-with-Tweepy/blob/master/figures/tweets_population_centres.png)
